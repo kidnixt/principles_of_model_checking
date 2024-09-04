@@ -11,7 +11,7 @@
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
   "openRouterAiApiKey": "",
-  "defaultModelKey": "ollama|ollama",
+  "defaultModelKey": "groq|groq",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 1000,
@@ -87,6 +87,16 @@
       "isBuiltIn": true,
       "baseUrl": "",
       "apiKey": ""
+    },
+    {
+      "name": "groq",
+      "provider": "groq",
+      "baseUrl": "",
+      "apiKey": "/org/freedesktop/UPower/devices/battery_BAT1",
+      "enabled": true,
+      "isBuiltIn": false,
+      "enableCors": true,
+      "isEmbeddingModel": false
     }
   ],
   "activeEmbeddingModels": [
