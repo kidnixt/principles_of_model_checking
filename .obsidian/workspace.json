@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "5. Linear Temporal Logic"
+                "path": "5. Linear Temporal Logic/5.1 Linear Temporal Logic"
               }
             }
           }
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic.md"
+              }
             }
           }
         ],
@@ -152,10 +156,13 @@
       "companion:Toggle completion": false
     }
   },
-  "active": "16b6d974af4edb5c",
+  "active": "a3205be9e3b5985e",
   "lastOpenFiles": [
+    "5. Linear Temporal Logic/5. Linear Temporal Logic.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic",
     "5. Linear Temporal Logic/Untitled.md",
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic.md",
+    "5.1 Linear Temporal Logic.md",
     "sources/Pasted image 20240904173918.png",
     "sources/Pasted image 20240904174257.png",
     "Vault.md",
