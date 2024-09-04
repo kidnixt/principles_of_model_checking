@@ -150,13 +150,21 @@
                 "file": "5. Linear Temporal Logic/Untitled.md"
               }
             }
+          },
+          {
+            "id": "1bf08c34de0f766f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +178,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9d613839c5e3720a",
+  "active": "1bf08c34de0f766f",
   "lastOpenFiles": [
     "5. Linear Temporal Logic/Untitled.md",
     "README.md",
