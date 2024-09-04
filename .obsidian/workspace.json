@@ -23,9 +23,9 @@
             "id": "9d613839c5e3720a",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "mk-space",
               "state": {
-                "path": "https://www.make.md/static/latest.md"
+                "path": "Tags"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
-    "Tags",
     "README.md",
+    "Tags",
     "5. Linear Temporal Logic"
   ]
 }
