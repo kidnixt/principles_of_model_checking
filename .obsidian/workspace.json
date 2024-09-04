@@ -167,15 +167,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false,
       "companion:Toggle completion": false
     }
   },
-  "active": "0846857369618d47",
+  "active": "9d613839c5e3720a",
   "lastOpenFiles": [
-    "5. Linear Temporal Logic/Untitled.md",
     "README.md",
     "Tags",
+    "5. Linear Temporal Logic/Untitled.md",
     "5. Linear Temporal Logic"
   ]
 }
