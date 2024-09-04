@@ -150,17 +150,9 @@
                 "file": "5. Linear Temporal Logic/Untitled.md"
               }
             }
-          },
-          {
-            "id": "1bf08c34de0f766f",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,10 +167,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "companion:Toggle completion": false
     }
   },
-  "active": "1bf08c34de0f766f",
+  "active": "0846857369618d47",
   "lastOpenFiles": [
     "5. Linear Temporal Logic/Untitled.md",
     "README.md",
