@@ -87,26 +87,6 @@
       "isBuiltIn": true,
       "baseUrl": "",
       "apiKey": ""
-    },
-    {
-      "name": "groq",
-      "provider": "groq",
-      "baseUrl": "",
-      "apiKey": "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",
-      "enabled": true,
-      "isBuiltIn": false,
-      "enableCors": false,
-      "isEmbeddingModel": false
-    },
-    {
-      "name": "ollama",
-      "provider": "ollama",
-      "baseUrl": "",
-      "apiKey": "",
-      "enabled": true,
-      "isBuiltIn": false,
-      "enableCors": false,
-      "isEmbeddingModel": false
     }
   ],
   "activeEmbeddingModels": [
