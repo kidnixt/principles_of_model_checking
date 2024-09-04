@@ -144,9 +144,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "a2754756d2bc7fcb",
-  "lastOpenFiles": []
+  "active": "c590d9302dd25a49",
+  "lastOpenFiles": [
+    "Untitled"
+  ]
 }
