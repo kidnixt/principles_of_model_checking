@@ -11,7 +11,7 @@
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
   "openRouterAiApiKey": "",
-  "defaultModelKey": "gpt-4o|openai",
+  "defaultModelKey": "groq|groq",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 1000,
@@ -36,43 +36,67 @@
       "name": "gpt-4o",
       "provider": "openai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "baseUrl": "",
+      "apiKey": ""
     },
     {
       "name": "gpt-4o-mini",
       "provider": "openai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "baseUrl": "",
+      "apiKey": ""
     },
     {
       "name": "gpt-4-turbo",
       "provider": "openai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "baseUrl": "",
+      "apiKey": ""
     },
     {
       "name": "claude-3-5-sonnet-20240620",
       "provider": "anthropic",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "baseUrl": "",
+      "apiKey": ""
     },
     {
       "name": "gemini-1.5-pro",
       "provider": "google",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "baseUrl": "",
+      "apiKey": ""
     },
     {
       "name": "gemini-1.5-flash",
       "provider": "google",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "baseUrl": "",
+      "apiKey": ""
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "baseUrl": "",
+      "apiKey": ""
+    },
+    {
+      "name": "groq",
+      "provider": "groq",
+      "baseUrl": "",
+      "apiKey": "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",
+      "enabled": true,
+      "isBuiltIn": false,
+      "enableCors": false,
+      "isEmbeddingModel": false
     }
   ],
   "activeEmbeddingModels": [
