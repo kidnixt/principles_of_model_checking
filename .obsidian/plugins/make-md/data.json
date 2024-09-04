@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags"
+    "//Tags",
+    "//5. Linear Temporal Logic"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
