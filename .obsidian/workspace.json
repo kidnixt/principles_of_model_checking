@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md"
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
-    "5.1 Linear Temporal Logic.md",
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
+    "5.1 Linear Temporal Logic.md",
     "5. Linear Temporal Logic/5. Linear Temporal Logic.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic",
     "5. Linear Temporal Logic/Untitled.md",
