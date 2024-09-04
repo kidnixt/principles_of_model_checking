@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2010ca3f23ab953e",
@@ -159,10 +160,14 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
-    "Pasted image 20240904173918.png",
+    "Vault.md",
+    "sources/sources.md",
+    "sources",
+    "Untitled.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic.md",
+    "sources/Pasted image 20240904173918.png",
     "README.md",
     "Tags",
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic.md",
     "5. Linear Temporal Logic"
   ]
 }

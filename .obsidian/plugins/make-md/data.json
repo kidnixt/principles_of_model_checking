@@ -46,7 +46,8 @@
   "expandedSpaces": [
     "/",
     "//Tags",
-    "//5. Linear Temporal Logic"
+    "//5. Linear Temporal Logic",
+    "//sources"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
