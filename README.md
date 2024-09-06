@@ -1,4 +1,4 @@
 # principles_of_model_checking
 
 
-testing 
+para ver esto piola y lindo abrilo desde obsidian 
