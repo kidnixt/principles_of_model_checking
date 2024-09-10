@@ -47,7 +47,8 @@
     "/",
     "//Tags",
     "//5. Linear Temporal Logic",
-    "//5. Linear Temporal Logic/5. Linear Temporal Logic/5.1 Linear Temporal Logic"
+    "//5. Linear Temporal Logic/5. Linear Temporal Logic/5.1 Linear Temporal Logic",
+    "//sources"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -62,6 +63,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
