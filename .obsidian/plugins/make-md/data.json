@@ -48,7 +48,8 @@
     "//Tags",
     "//sources",
     "//5. Linear Temporal Logic/5. Linear Temporal Logic/5.1 Linear Temporal Logic",
-    "//6. Computation Tree Logic"
+    "//6. Computation Tree Logic",
+    "//5. Linear Temporal Logic"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
