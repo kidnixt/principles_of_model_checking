@@ -11,8 +11,12 @@
             "id": "9d613839c5e3720a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/Untitled.md"
+              }
             }
           }
         ],
@@ -152,15 +160,15 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
-    "6. Computation Tree Logic/6.2 Computation Tree Logic/Untitled.md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2 Computation Tree Logic.md",
+    "6. Computation Tree Logic/6.2 Computation Tree Logic/Untitled.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
     "6. Computation Tree Logic/6.1 Introduction.md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic",
     "6. Computation Tree Logic/6. Computation Tree Logic.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "6. Computation Tree Logic/Untitled.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
     "6. Computation Tree Logic",
     "Untitled.md",
     "sources/Pasted image 20240910193409.png",
