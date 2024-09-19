@@ -138,14 +138,21 @@
                 "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md"
               }
             }
+          },
+          {
+            "id": "694f54c075ccc701",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
