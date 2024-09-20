@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398,
-    "collapsed": true
+    "width": 398
   },
   "right": {
     "id": "2010ca3f23ab953e",
@@ -167,7 +166,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "694f54c075ccc701",
+  "active": "9d613839c5e3720a",
   "lastOpenFiles": [
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md",
