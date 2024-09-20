@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md"
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +167,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d613839c5e3720a",
+  "active": "694f54c075ccc701",
   "lastOpenFiles": [
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
+    "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2 Computation Tree Logic.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic .md",
