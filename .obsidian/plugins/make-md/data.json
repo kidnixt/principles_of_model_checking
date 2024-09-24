@@ -47,10 +47,10 @@
     "/",
     "//Tags",
     "//sources",
-    "//5. Linear Temporal Logic",
     "//5. Linear Temporal Logic/5. Linear Temporal Logic/5.1 Linear Temporal Logic",
-    "//6. Computation Tree Logic",
-    "//6. Computation Tree Logic/6. Computation Tree Logic/6.2 Computation Tree Logic"
+    "//6. Computation Tree Logic/6. Computation Tree Logic/6.2 Computation Tree Logic",
+    "//0. PRISM Dictionary",
+    "//0. PRISM"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
