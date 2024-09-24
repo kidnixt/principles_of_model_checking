@@ -29,4 +29,19 @@ endmodule
 PRISM language can be used to describe several types of probabilistic models. To indicate which type is being described, a PRISM model usually includes a model type keyword:
 
 - **dtmc:** discrete-time Markov chain
-- 
+- **ctmc:** continuous-time Markov chain
+- **mdp:** Markov decision process (or probabilistic automaton)
+- **pta**: probabilistic timed automaton
+- **pomdp:** partially observable Markov decision procress
+- **popta:** partially observable probabilistic timed automaton
+
+## Modules and Variables
+
+The definition of a module contains two parts: its *variables* and its *commands*. The variables describe the possible states that the module can be in; the commands describe its behaviour, i.e. the way in which the state changes over time.
+
+In the example above, each module has one integer variable with range [0..2]
+
+```c
+x : [0..2] init 0;
+```
+
