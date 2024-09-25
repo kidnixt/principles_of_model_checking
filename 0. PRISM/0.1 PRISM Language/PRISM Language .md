@@ -123,4 +123,5 @@ In state (0, 0) of the MDP, there would be a nondeterministic choice between tho
 - `0.8:(0,0) + 0.2:(1,0)` (module `M1` moves)
 - `0.8:(0,0) + 0.2:(0,1)` (module `M2` moves)
 
-For a DTMC, the choice is 
+For a DTMC, the choice is *probabilistic*, each enabled command is selected with **equal probability**. If Example 1 was a DTMC, then in state (0, 0) of the model the following probability distribution would result:
+
