@@ -45,3 +45,11 @@ In the example above, each module has one integer variable with range [0..2]
 x : [0..2] init 0;
 ```
 
+Notice that the initial value of the variable is also specified. A Boolean variable is declared as follows:
+
+```c
+b : bool init false;
+```
+
+It is also possible to omit the initial value of a variable, in which case it is assumed to be the lowest value in the range (or *false* for a Boolean). Thus, the variable declarations shown below are equivalent to the ones above.
+
