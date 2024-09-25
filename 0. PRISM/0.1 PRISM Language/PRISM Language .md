@@ -83,4 +83,25 @@ The second command:
 
 Illustrates that guards can contain constraints on any variable, not just the ones in that module, i.e. the behaviour of one module can depend on the state of another.
 
-**Updates, however, can only specify values for variables belonging to the module.** In general a module *can read* the variables of any other module, but **only write to its own**. When a command comprises a single update with probability 
+**Updates, however, can only specify values for variables belonging to the module.** In general a module *can read* the variables of any other module, but **only write to its own**. When a command comprises a single update with probability 1.0, the 1.0 can be omitted, as is done in the example above.
+
+If a module has more than one variable, updates describe the new value for each of them. For example, if it had two variables $\large x_1$ and $\large x_2$, a possible command would be:
+
+```c
+[] x1=0 & x2>0 & x2<10 -> 0.5:(x1'=1)&(x2'=x2+1) + 0.5:(x1'=2)&(x2'=x2-1);
+```
+
+Notice that elements of the updates are concatenated with `&` and that each element must be bracketed individually. If an update does not give a new value for a local variable, it is assumed not to change. As a special case, the keyword **`true`** can be used to denote an update where no variable's value changes, i.e. the following are all equivalent:
+
+``` c
+[] x1>10 | x2>10 -> (x1'=x1)&(x2'=x2);  
+[] x1>10 | x2>10 -> (x1'=x1);  
+[] x1>10 | x2>10 -> true;
+```
+
+Finally, it is important to remember that the expressions on the right hand side of each update refer to the state of the model *before* the update occurs. So, for example, this command:
+
+```c
+[] x1=0 & x2=1 -> (x1'=2)&(x2'=x1)
+```
+updates variable $\large x_2$ to 0, not 2. 
