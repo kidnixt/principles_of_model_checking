@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Multiple Initial States.md",
+                "file": "0. PRISM/0.1 PRISM Language/Global Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Multiple Initial States.md",
+                "file": "0. PRISM/0.1 PRISM Language/Global Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Multiple Initial States.md",
+                "file": "0. PRISM/0.1 PRISM Language/Global Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Multiple Initial States.md"
+                "file": "0. PRISM/0.1 PRISM Language/Global Variables.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
     "0. PRISM/0.1 PRISM Language/Multiple Initial States.md",
+    "0. PRISM/0.1 PRISM Language/Global Variables.md",
     "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.1 PRISM Language/Expressions.md",
     "0. PRISM/0.1 PRISM Language/Constants.md",
@@ -206,7 +207,6 @@
     "6. Computation Tree Logic",
     "sources/Pasted image 20240910193337.png",
     "sources/sources.md",
-    "README.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic",
     "sources/Pasted image 20240904174257.png",
     "sources",
