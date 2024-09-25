@@ -73,4 +73,14 @@ The behaviour of each module is described by *commands*, comprising a **guard** 
 [] x=0 -> 0.8:(x'=0) + 0.2:(x'=1);
 ```
 
-The guard x=0 indicates that this describes the behaviour of the module when the variable **x** has value 0. The updates (x'=0) and (x'=1) and their a
+The guard x=0 indicates that this describes the behaviour of the module when the variable **x** has value 0. The updates (x'=0) and (x'=1) and their associated probabilities state that the value of **x** will remaint at 0 with probability 0.8 and change to 1 with probability 0.2.
+
+The second command:
+
+``` c
+[] x=1 & y!=2 -> (x'=2);
+```
+
+Illustrates that guards can contain constraints on any variable, not just the ones in that module, i.e. the behaviour of one module can depend on the state of another.
+
+**Updates, however, can only specify values for variables belonging to the module**
