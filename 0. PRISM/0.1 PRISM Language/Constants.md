@@ -1,2 +1,12 @@
 # Constants
-PRISM supports the use of *constants*. Can be i
+PRISM supports the use of *constants*. Can be integers, doubles or Boolenas and can be defined using literal values or as constant expressions using the `const` keyword.
+
+
+``` c
+const int radius = 12;  
+const double pi = 3.141592;  
+const double area = pi * radius * radius;  
+const bool yes = true;
+```
+
+Constants can be used anywhere that a constant value would be expected, such as the lower or upper range of a variable, the probability or rate associated with an update, or anywhere in a guard or update.
