@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Untitled.md",
+                "file": "0. PRISM/0.1 PRISM Language/Local Nondeterminism.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Untitled.md",
+                "file": "0. PRISM/0.1 PRISM Language/Local Nondeterminism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Untitled.md",
+                "file": "0. PRISM/0.1 PRISM Language/Local Nondeterminism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Untitled.md"
+                "file": "0. PRISM/0.1 PRISM Language/Local Nondeterminism.md"
               }
             }
           },
@@ -168,12 +168,15 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
-    "0. PRISM/0.1 PRISM Language/PRISM Language .md",
-    "0. PRISM/0.1 PRISM Language/Untitled.md",
-    "0. PRISM/0.1 PRISM Language/Model Type.md",
     "0. PRISM/0.1 PRISM Language/Example 1.md",
-    "Vault.md",
+    "0. PRISM/0.1 PRISM Language/Local Nondeterminism.md",
+    "0. PRISM/0.1 PRISM Language/Model Type.md",
+    "0. PRISM/0.1 PRISM Language/Parallel Composition.md",
+    "0. PRISM/0.1 PRISM Language/Modules & Variables.md",
+    "0. PRISM/0.1 PRISM Language/Commands.md",
+    "0. PRISM/0.1 PRISM Language/PRISM Language .md",
     "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
+    "Vault.md",
     "0. PRISM/0. PRISM.md",
     "0. PRISM/PRISM Language.md",
     "0. PRISM/0.1 PRISM Language",
@@ -205,7 +208,6 @@
     "5.1 Linear Temporal Logic.md",
     "5. Linear Temporal Logic/5. Linear Temporal Logic.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic",
-    "5. Linear Temporal Logic/Untitled.md",
     "sources/Pasted image 20240904174257.png",
     "sources",
     "Tags",

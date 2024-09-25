@@ -1,0 +1,29 @@
+# Modules and Variables
+
+The definition of a module contains two parts: its *variables* and its *commands*. The variables describe the possible states that the module can be in; the commands describe its behaviour, i.e. the way in which the state changes over time.
+
+In the example above, each module has one integer variable with range [0..2]
+
+```c
+x : [0..2] init 0;
+```
+
+Notice that the initial value of the variable is also specified. A Boolean variable is declared as follows:
+
+```c
+b : bool init false;
+```
+
+It is also possible to omit the initial value of a variable, in which case it is assumed to be the lowest value in the range (or *false* for a Boolean). Thus, the variable declarations shown below are equivalent to the ones above.
+
+```c
+x : [0..2];
+b : bool;
+```
+
+We also mention that, for a few kinds of model analysis (typically those based on simulation, such as **approximate model checking** or **fast adaptative simulation**), it is also permissable to use integer variables with unbounded ranges, denoted as:
+
+```c
+x : int ;
+y : int init 3;
+```
