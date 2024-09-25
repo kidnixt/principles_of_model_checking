@@ -53,3 +53,24 @@ b : bool init false;
 
 It is also possible to omit the initial value of a variable, in which case it is assumed to be the lowest value in the range (or *false* for a Boolean). Thus, the variable declarations shown below are equivalent to the ones above.
 
+```c
+x : [0..2];
+b : bool;
+```
+
+We also mention that, for a few kinds of model analysis (typically those based on simulation, such as **approximate model checking** or **fast adaptative simulation**), it is also permissable to use integer variables with unbounded ranges, denoted as:
+
+```c
+x : int ;
+y : int init 3;
+```
+
+## Commands
+
+The behaviour of each module is described by *commands*, comprising a **guard** and one or more **updates**. The first command of module M1 in our example is:
+
+``` c
+[] x=0 -> 0.8:(x'=0) + 0.2:(x'=1);
+```
+
+The guard x=0 indicates that this describes the behaviour of the module when the variable **x** has value 0. The updates (x'=0) and (x'=1) and their a
