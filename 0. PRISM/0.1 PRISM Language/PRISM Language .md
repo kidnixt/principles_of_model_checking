@@ -105,3 +105,6 @@ Finally, it is important to remember that the expressions on the right hand side
 [] x1=0 & x2=1 -> (x1'=2)&(x2'=x1)
 ```
 updates variable $\large x_2$ to 0, not 2. 
+
+## Parallel Composition
+The probabilistic model corresponding to a PRISM language description is constructed as the *parallel composition* of its modules. In every state of the model, there is a set of commands (belonging to any of the modules) which are enab
