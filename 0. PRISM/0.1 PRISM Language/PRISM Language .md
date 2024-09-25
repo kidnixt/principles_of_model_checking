@@ -83,4 +83,4 @@ The second command:
 
 Illustrates that guards can contain constraints on any variable, not just the ones in that module, i.e. the behaviour of one module can depend on the state of another.
 
-**Updates, however, can only specify values for variables belonging to the module**
+**Updates, however, can only specify values for variables belonging to the module.** In general a module *can read* the variables of any other module, but **only write to its own**. When a command comprises a single update with probability 
