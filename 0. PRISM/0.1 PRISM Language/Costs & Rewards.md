@@ -43,3 +43,19 @@ endrewards
 ```
 
 assigns a reward of 1 to all transitions in the model with no action label, and rewards of `x` and `2*x` to all transitions labelled with actions `a` and `b`, respectively.
+
+As is the case for states, multiple reward items can specify rewards for a single transition, in which case the resulting reward is the sum of all the individual rewards. A model description can specify rewards for both states and transitions. These are all placed together in a single `rewards...endrewards` construct.
+
+---
+A PRISM model can have multiple reward structures. Optionally, these can be given labels such as in the following example:
+
+
+``` c
+rewards "total_time"  
+    true : 1;  
+endrewards  
+  
+rewards "num_failures"  
+    [fail] true : 1;  
+endrewards
+```
