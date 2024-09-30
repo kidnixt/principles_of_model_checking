@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "0. PRISM/0.1 PRISM Language"
+                "path": "0. PRISM/0.2 Property Specification"
               }
             }
           }
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2 Property Specification.md"
+              }
             }
           },
           {
@@ -160,8 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16b6d974af4edb5c",
+  "active": "52c81f69d14ffbf5",
   "lastOpenFiles": [
+    "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
+    "0. PRISM/0.2 Property Specification",
     "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.1 PRISM Language/Costs & Rewards.md",
     "0. PRISM/0.1 PRISM Language/Formulas and Labels.md",
@@ -198,7 +204,6 @@
     "sources/Pasted image 20240912174619.png",
     "6. Computation Tree Logic/6.1 Introduction.md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic",
-    "6. Computation Tree Logic/6. Computation Tree Logic.md",
     "6. Computation Tree Logic",
     "sources/Pasted image 20240910193337.png",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic",
