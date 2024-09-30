@@ -11,11 +11,9 @@
             "id": "9d613839c5e3720a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Costs & Rewards.md",
-                "mode": "source",
-                "source": false
+                "path": "0. PRISM/0.1 PRISM Language"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Costs & Rewards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Costs & Rewards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. PRISM/0.1 PRISM Language/Costs & Rewards.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,13 +160,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d613839c5e3720a",
+  "active": "16b6d974af4edb5c",
   "lastOpenFiles": [
-    "0. PRISM/0.1 PRISM Language/Formulas and Labels.md",
+    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.1 PRISM Language/Costs & Rewards.md",
+    "0. PRISM/0.1 PRISM Language/Formulas and Labels.md",
     "0. PRISM/0.1 PRISM Language/Global Variables.md",
     "0. PRISM/0.1 PRISM Language/Multiple Initial States.md",
-    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.1 PRISM Language/Expressions.md",
     "0. PRISM/0.1 PRISM Language/Constants.md",
     "0. PRISM/0.1 PRISM Language/Local Nondeterminism.md",
