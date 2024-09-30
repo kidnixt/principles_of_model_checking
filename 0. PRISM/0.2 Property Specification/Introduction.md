@@ -34,3 +34,22 @@ Note that the above properties are all assertions,, i.e. ones to which we would 
 ```c
 P=? [ !proc2_terminate U proc1_terminate ]
 ```
+
+***"the probability that process 1 terminates before process 2 does"***
+
+
+```c 
+Pmax=? [ F<=T messages_lost > 10 ]
+```
+
+***"the maximum probability that more than 10 messages have been lost by time T" (for and MDP/PTA)***
+
+
+```C
+S=? [ queue_size / max_size > 0.75 ]
+```
+
+***"the long-run probability that the queue is more than 75% full"***
+
+---
+Furthermore, PRISM makes it easy to combine such properties into more complex expressions, compute their values for a range of parameters and plot graphs of the results using experiments. This is often a very useful way of identifying interesting patterns or trends in the behaviour of a system.
