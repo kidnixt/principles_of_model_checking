@@ -32,9 +32,23 @@ Hence, the actual meaning of the property P `bound` [ `pathprop` ] in these case
 
 ## Quantitative properties
 
-It is also very often useful 
+It is also very often useful to take a *quantitative* approach to probabilistic model checking, computing the actual probability that some behaviour of a model is observed, rather than just verifying whether or not the probability is above or below a given bound. Hence, PRISM allows the **P operator** to take the following form:
 
 
+```c
+P=? [ pathprop ]
+```
+
+These properties return a numerical rather than a Boolean value. The **S** and **R** operators, discussed later, can also be used in this way.
+
+As mentioned above, for nondeterministic models (MDPs or PTAs), either minimum or maximum probability values can be computed. Therefore, in this case, we have two possible types of property:
 
 
+```c
+Pmin=? [ pathprop ]  
+Pmax=? [ pathprop ]
+```
+
+
+It is also possible to specify **to which state the probability returned by a quantitative property refers**. This is covered in the later sec
 
