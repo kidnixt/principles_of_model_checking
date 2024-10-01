@@ -52,7 +52,8 @@
     "//0. PRISM Dictionary",
     "//0. PRISM",
     "//0. PRISM/0. PRISM/0.2 Property Specification",
-    "//0. PRISM/0. PRISM/0.1 PRISM Language"
+    "//0. PRISM/0. PRISM/0.1 PRISM Language",
+    "//5. Linear Temporal Logic"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
