@@ -50,5 +50,7 @@ Pmax=? [ pathprop ]
 ```
 
 
-It is also possible to specify **to which state the probability returned by a quantitative property refers**. This is covered in the later sec
+It is also possible to specify **to which state the probability returned by a quantitative property refers**. This is covered in the later section on **filters**
+
+
 
