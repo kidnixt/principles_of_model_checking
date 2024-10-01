@@ -1,0 +1,5 @@
+# Identifying a Set of States
+
+One of the most fundamental tasks when specifying properties of a model is to identify particular sets or classes of states of the model. For example, to verify a property such as *"the algorithm eventually terminates successfully with probability 1"*, it is first necessary to identify the states of the model which correspond to situations where *"the algorithm has terminated successfully"* **In terms of the way temporal logics are usually presented, the correspond to *atomic propositions***.
+
+In PRISM, this is achieved simply by writing an [[Expressions | expression]] in the PRISM language which evaluates to a Boolean value. This expression will typically contain references to variables (and constants) from the model to which it relates. The set of states corresponding to this expression is those for which it evaluates to
