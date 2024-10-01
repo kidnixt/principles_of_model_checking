@@ -28,8 +28,11 @@ where `p` is a PRISM language expression evaluating to a double in the range [
 
 For models that can exhibit nondeterministic behaviour, such as MDPs or PTAs, some additional clarifications are necessary. Whereas for fully probabilistic models such as DTMCs and CTMCs, **probability measures over paths are well defined** (see e.g. [KSK76]((https://www.prismmodelchecker.org/manual/Main/References#KSK76)and [BKH99](https://www.prismmodelchecker.org/manual/Main/References#BKH99), respectively).
 
+Hence, the actual meaning of the property P `bound` [ `pathprop` ] in these cases is: "the probability that `pathprop` is satisfied by the paths from state **s** meets the bound `bound` *for all possible resolutions of nondeterminism*". This means that, properties using the **P operator** then effectively reason about the *minimum or maximum probability*, over all possible resolutions of nondeterminism, that a certain type of behaviour is observed. This depends on the bound attached to the **P operator:** a lower bound (> or >=) relates to minimum probabilities and an upper bound (< or <=) to maximum probabilities.
 
+## Quantitative properties
 
+It is also very often useful 
 
 
 
