@@ -11,8 +11,12 @@
             "id": "9d613839c5e3720a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398
+    "width": 398,
+    "collapsed": true
   },
   "right": {
     "id": "2010ca3f23ab953e",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md"
+              }
             }
           },
           {
@@ -160,6 +169,7 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
+    "2024-10-02.md",
     "0. PRISM/0.2 Property Specification/The S Operator.md",
     "0. PRISM/0.2 Property Specification/LTL-Style path properties.md",
     "0. PRISM/0.2 Property Specification/Path Properties.md",
@@ -186,7 +196,6 @@
     "0. PRISM/0.1 PRISM Language/Commands.md",
     "0. PRISM/0.1 PRISM Language/PRISM Language .md",
     "Vault.md",
-    "0. PRISM/0. PRISM.md",
     "0. PRISM/0.1 PRISM Language",
     "0. PRISM",
     "sources/Pasted image 20240924162748.png",
