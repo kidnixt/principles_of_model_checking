@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The P Operator.md",
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The P Operator.md",
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The P Operator.md",
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The P Operator.md"
+                "file": "0. PRISM/0.2 Property Specification/The S Operator.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
+    "0. PRISM/0.2 Property Specification/The P Operator.md",
     "0. PRISM/0.2 Property Specification/The S Operator.md",
     "2024-10-02.md",
     "0. PRISM/0.2 Property Specification/LTL-Style path properties.md",
@@ -176,7 +177,6 @@
     "sources/sources.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
-    "0. PRISM/0.2 Property Specification/The P Operator.md",
     "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
     "0. PRISM/0.2 Property Specification/Identifying a Set of States.md",
     "0. PRISM/0.2 Property Specification/Introduction.md",
