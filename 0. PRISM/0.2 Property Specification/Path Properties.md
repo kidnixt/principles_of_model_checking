@@ -34,3 +34,9 @@ The property `prop1`**U** `prop2`is true for a path if `prop2`is true in some st
 ```c
 P>0.5 [z<2 U z=2]
 ```
+
+which is true in a state if "the probability that `z`is eventually equal to 2, and that `z`remains less than 2 up until that point, is greater than 0.5"
+
+## "Eventually" path properties
+
+The property **F** `prop`is true for a path if `prop`eventually becomes true at some point along the path. The **F operator** is in fact a special case of the **U operator** (*you will often see **F** `prop`written as **true U `prop`***)
