@@ -12,3 +12,6 @@ where `bound`takes the form `<r`, `<=r`, `>r` or `>=r` for an expression `
 R query [ rewardprop ]
 ```
 
+where `query` is `=?`, `min=?` or `max=?`. In the latter case, filters can be used, as for the **P** and **S** operators.
+
+
