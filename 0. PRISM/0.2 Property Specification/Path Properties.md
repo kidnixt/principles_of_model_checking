@@ -65,8 +65,18 @@ Like **F and G**, the operators **W and R** are derivable from other temporal op
 
 Weak until (`a` **W** `b`), which is equivalent to (`a`**U** `b`) | **G** `a`, requires that `a`remains true until `b`, becomes true, but does not require that `b`ever does become true (i.e. `a`remains true forever). For example a weak form of the until example used above is:
 
+```c
+P>0.5 [z<2 U z=2]
+```
 
-```
-P>0.5 [z]
-```
+which states that, with probability greater than 0.5, either `z`is always less than 2, or it is less than 2 until the point where `z`is 2.
+
+Release (`a` **R** `b`), which is equivalent to ! (`!a`**U** `!b`), informally means that `b`is true until`a`becomes true, or `b`is true forever.
+
+
+## "Bounded" variants of path properties
+
+All of the temporal operators given above, with the exception of **X**, have "bounded" variants, where an additional time bound is imposed on the property being satisfied. The most common case is to use an *upper time bound*, i.e. of the form "<=t" or "<t", where *t* is a PRISM expression evaluating to a constant, non-negative value.
+
+For example, a bounded until property `prop1`**U<=t** `prop2
 
