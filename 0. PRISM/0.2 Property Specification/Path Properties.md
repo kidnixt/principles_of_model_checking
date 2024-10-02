@@ -39,4 +39,23 @@ which is true in a state if "the probability that `z`is eventually equal to 2, a
 
 ## "Eventually" path properties
 
-The property **F** `prop`is true for a path if `prop`eventually becomes true at some point along the path. The **F operator** is in fact a special case of the **U operator** (*you will often see **F** `prop`written as **true U `prop`***)
+The property **F** `prop`is true for a path if `prop`eventually becomes true at some point along the path. The **F operator** is in fact a special case of the **U operator** (*you will often see **F** `prop`written as **true U `prop`***) A simple example is:
+
+
+```c
+P<0.1 [F z>2]
+```
+
+which is true in a state if "the probability that `z`is eventually greater than 2 is less than 0.1"
+
+## "Globally" path properties
+
+Whereas the **F operator** is used for ***reachability*** properties, **G operator** represents ***invariance***. The property **G** `prop`is true of a path if `prop`remains true at all states along the path. Thus, for example:
+
+
+```c
+P>=0.99 [G z<10]
+```
+
+states that, with probability at least 0.99, `z`never exceeds 10.
+
