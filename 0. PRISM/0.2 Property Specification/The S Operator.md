@@ -16,3 +16,9 @@ which means: "the long-run probability of the queue being more than 75% full is 
 
 Like the [[The P Operator | P operator]], the **S operator** can be used in a *quantitative* form, which returns the actual probability value, e.g.:
 
+```c
+S=? [ queue_size / max_size > 0.75 ]
+```
+
+and can be further customised with the use of filters.
+
