@@ -23,9 +23,30 @@ P=? [F G ("error" & !"repair")]
 
 Note that logical operators have precedence over temporal ones, so you will often need to include parentheses when using logical operators, e.g.:
 
-
 ```c
 P=? [(F "error1) & (F "error2")]
 ```
 
-For temporal operators, unary operators (such as **F, G** and **X**) have precedence over binary ones (such as **U**). Unary operator can be nested 
+For temporal operators, unary operators (such as **F, G** and **X**) have precedence over binary ones (such as **U**). Unary operator can be nested, without parentheses, but binary ones cannot. 
+
+So, these are allowed:
+
+```c
+P=? [ F X X X "a" ]  
+P=? [ "a" U X X X "error" ]  
+P=? [ ("a" U "b") U "c" "error" ]
+```
+
+but this is not:
+
+```c
+P=? [ "a" U "b" U "c" "error" ]
+```
+
+and to make the above property correct, you would need to add parentheses around the nested "U" operators, as follows:
+
+```c
+P=? [ ("a" U "b") U ("b" U "c") U "error" ]
+```
+
+
