@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+                "file": "0. PRISM/0.2 Property Specification/Path Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+                "file": "0. PRISM/0.2 Property Specification/Path Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+                "file": "0. PRISM/0.2 Property Specification/Path Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md"
+                "file": "0. PRISM/0.2 Property Specification/Path Properties.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
+    "sources/sources.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
     "0. PRISM/0.2 Property Specification/Path Properties.md",
     "0. PRISM/0.2 Property Specification/The P Operator.md",
@@ -195,9 +197,7 @@
     "0. PRISM/0.1 PRISM Language",
     "0. PRISM",
     "Untitled.md",
-    "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md",
     "sources/Pasted image 20240924162748.png",
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "sources/Pasted image 20240912174930.png",
     "sources/Pasted image 20240912174909.png",
     "sources/Pasted image 20240904173918.png",
