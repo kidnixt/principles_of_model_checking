@@ -13,13 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.1 Reward Properties /0.2.1 Reward Properties.md",
+                "file": "0. PRISM/0.1 PRISM Language/0.1.12 Costs & Rewards.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f39a5f507ff16f10",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "0. PRISM/0.1 PRISM Language"
+              }
+            }
+          },
+          {
+            "id": "a708fc2fa715a9cc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "0. PRISM/0.1 PRISM Language"
+              }
+            }
+          },
+          {
+            "id": "46c56aed7cd0c28d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties "
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.1 Reward Properties /0.2.1 Reward Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.1 Reward Properties /0.2.1 Reward Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.1 Reward Properties /0.2.1 Reward Properties.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,36 +193,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d613839c5e3720a",
+  "active": "46c56aed7cd0c28d",
   "lastOpenFiles": [
-    "0. PRISM/0.2 Property Specification/The P Operator.md",
-    "0. PRISM/0.2 Property Specification/Identifying a Set of States.md",
-    "0. PRISM/0.2 Property Specification/Introduction.md",
-    "0. PRISM/0.2 Property Specification/0.2.1 Reward Properties /0.2.1 Reward Properties.md",
-    "0. PRISM/0.2 Property Specification/Reward-based properties.md",
-    "0. PRISM/0.2 Property Specification/0.2.1 Reward Properties ",
-    "0. PRISM/0.2 Property Specification/The S Operator.md",
+    "0. PRISM/0.2 Property Specification/0.2.7 Reward-based properties.md",
+    "0. PRISM/0.2 Property Specification/0.2.6 The S Operator.md",
+    "0. PRISM/0.2 Property Specification/0.2.5 LTL-Style path properties.md",
+    "0. PRISM/0.2 Property Specification/0.2.4 Path Properties.md",
+    "0. PRISM/0.2 Property Specification/0.2.3 The P Operator.md",
+    "0. PRISM/0.2 Property Specification/0.2.2 Identifying a Set of States.md",
+    "0. PRISM/0.2 Property Specification/0.2.1 Introduction.md",
+    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
+    "0. PRISM/0.1 PRISM Language/0.1.12 Costs & Rewards.md",
+    "0. PRISM/0.1 PRISM Language/0.1.11 Formulas and Labels.md",
+    "0. PRISM/0.1 PRISM Language/0.1.10 Global Variables.md",
+    "0. PRISM/0.1 PRISM Language/0.1.9 Multiple Initial States.md",
+    "0. PRISM/0.1 PRISM Language/0.1.8 Constants.md",
+    "0. PRISM/0.1 PRISM Language/0.1.7 Expressions.md",
+    "0. PRISM/0.1 PRISM Language/0.1.6 Local Nondeterminism.md",
+    "0. PRISM/0.1 PRISM Language/0.1.5 Parallel Composition.md",
+    "0. PRISM/0.1 PRISM Language/0.1.4 Commands.md",
+    "0. PRISM/0.1 PRISM Language/0.1.3 Modules & Variables.md",
+    "0. PRISM/0.1 PRISM Language/0.1.2 Model Type.md",
+    "0. PRISM/0.1 PRISM Language/0.1.1 Example 1.md",
+    "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.1 Reward Properties.md",
+    "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
     "2024-10-02.md",
-    "0. PRISM/0.2 Property Specification/LTL-Style path properties.md",
-    "0. PRISM/0.2 Property Specification/Path Properties.md",
     "sources/sources.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
     "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
-    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.2 Property Specification",
-    "0. PRISM/0.1 PRISM Language/Costs & Rewards.md",
-    "0. PRISM/0.1 PRISM Language/Formulas and Labels.md",
-    "0. PRISM/0.1 PRISM Language/Global Variables.md",
-    "0. PRISM/0.1 PRISM Language/Multiple Initial States.md",
-    "0. PRISM/0.1 PRISM Language/Expressions.md",
-    "0. PRISM/0.1 PRISM Language/Constants.md",
-    "0. PRISM/0.1 PRISM Language/Local Nondeterminism.md",
-    "0. PRISM/0.1 PRISM Language/Example 1.md",
-    "0. PRISM/0.1 PRISM Language/Model Type.md",
-    "0. PRISM/0.1 PRISM Language/Parallel Composition.md",
-    "0. PRISM/0.1 PRISM Language/Modules & Variables.md",
-    "0. PRISM/0.1 PRISM Language/Commands.md",
     "0. PRISM/0.1 PRISM Language",
     "0. PRISM",
     "sources/Pasted image 20240924162748.png",
