@@ -59,3 +59,14 @@ P>=0.99 [G z<10]
 
 states that, with probability at least 0.99, `z`never exceeds 10.
 
+## "Weak until" & "release" path properties
+
+Like **F and G**, the operators **W and R** are derivable from other temporal operators.
+
+Weak until (`a` **W** `b`), which is equivalent to (`a`**U** `b`) | **G** `a`, requires that `a`remains true until `b`, becomes true, but does not require that `b`ever does become true (i.e. `a`remains true forever). For example a weak form of the until example used above is:
+
+
+```
+P>0.5 [z]
+```
+
