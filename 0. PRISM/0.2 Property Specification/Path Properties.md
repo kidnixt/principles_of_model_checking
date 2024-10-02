@@ -19,7 +19,6 @@ In the following sections, we describe each of these *temporal operators*. We th
 
 The property **X** `prop`is true for a path if `prop`is true in its second state. An example of this type of property, used inside a **P operator**, is:
 
-
 ```c
 P<0.01 [ X y = 1]
 ```
@@ -29,7 +28,6 @@ which is true in a state if "the probability of the expression y = 1 being true 
 ## "Until" path properties
 
 The property `prop1`**U** `prop2`is true for a path if `prop2`is true in some state of the path and `prop1`is true in all preceding states. A simple example of this would be:
-
 
 ```c
 P>0.5 [z<2 U z=2]
@@ -41,7 +39,6 @@ which is true in a state if "the probability that `z`is eventually equal to 2, a
 
 The property **F** `prop`is true for a path if `prop`eventually becomes true at some point along the path. The **F operator** is in fact a special case of the **U operator** (*you will often see **F** `prop`written as **true U `prop`***) A simple example is:
 
-
 ```c
 P<0.1 [F z>2]
 ```
@@ -51,7 +48,6 @@ which is true in a state if "the probability that `z`is eventually greater than 
 ## "Globally" path properties
 
 Whereas the **F operator** is used for ***reachability*** properties, **G operator** represents ***invariance***. The property **G** `prop`is true of a path if `prop`remains true at all states along the path. Thus, for example:
-
 
 ```c
 P>=0.99 [G z<10]
@@ -80,13 +76,11 @@ All of the temporal operators given above, with the exception of **X**, have "bo
 
 For example, a bounded until property `prop1`**U<=t** `prop2`, is satisfied along a path if `prop2`becomes true within *t* steps and `prop1`is true in all states before that point. A typical example of this would be:
 
-
 ```c
 P>=0.98 [y<4 U<=7 y=4]
 ```
 
 which is true in a state if "the probability of `y`first exceeding 3 within 7 time units is greater than or equal to 0.98". Similarly:
-
 
 ```c
 P>=0.98 [F<=7 y=4]
@@ -94,10 +88,28 @@ P>=0.98 [F<=7 y=4]
 
 is true in a state if "the probability of `y`being equal to 4 within 7 time units is greater than or equal to 0.98" and:
 
-
 ```c
 P>=0.98 [G<=7 y=4]
 ```
 
-is true if the probability of `y`staying equal to 4 for 7 time units is t least 0.98
+is true if the probability of `y`staying equal to 4 for 7 time units is t least 0.98.
 
+
+The time bound can be an arbitrary (constant) expression, but note that you may need to bracket it, as in the following example:
+
+```c
+P>=0.98 [ G<=(2*k+1) y=4 ]
+```
+
+You can also use lower time-bounds (i.e. `>=t` or `>t`) and time intervals `[t1,t2]`, e.g.:
+
+```c
+P>=0.98 [ F>=10 y=4 ]  
+P>=0.98 [ F[10,20] y=4 ]
+```
+
+which refer to the probability of `y`becoming equal to 4 after 10 or more time units, and after between 10 and 20 time units respectively.
+
+## Transient probabilities
+
+We can also use the boun
