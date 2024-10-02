@@ -28,4 +28,3 @@ There are various different types of reward properties:
 
 Below, we consider each of these cases in turn. The descriptions here are kept relatively informal. Precise definitions for most of these can be found in, for example, [KNP07a](https://www.prismmodelchecker.org/manual/Main/References#KNP07a) (for DTMCs and CTMCs) or [FKNP11 ](https://prismmodelchecker.org/manual/Main/References#FKNP11)(for MDPs)
 
-## "Reachability rewards" Properties
