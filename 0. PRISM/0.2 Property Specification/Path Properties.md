@@ -78,5 +78,26 @@ Release (`a` **R** `b`), which is equivalent to ! (`!a`**U** `!b`), informally m
 
 All of the temporal operators given above, with the exception of **X**, have "bounded" variants, where an additional time bound is imposed on the property being satisfied. The most common case is to use an *upper time bound*, i.e. of the form "<=t" or "<t", where *t* is a PRISM expression evaluating to a constant, non-negative value.
 
-For example, a bounded until property `prop1`**U<=t** `prop2
+For example, a bounded until property `prop1`**U<=t** `prop2`, is satisfied along a path if `prop2`becomes true within *t* steps and `prop1`is true in all states before that point. A typical example of this would be:
+
+
+```c
+P>=0.98 [y<4 U<=7 y=4]
+```
+
+which is true in a state if "the probability of `y`first exceeding 3 within 7 time units is greater than or equal to 0.98". Similarly:
+
+
+```c
+P>=0.98 [F<=7 y=4]
+```
+
+is true in a state if "the probability of `y`being equal to 4 within 7 time units is greater than or equal to 0.98" and:
+
+
+```c
+P>=0.98 [G<=7 y=4]
+```
+
+is true if the probability of `y`staying equal to 4 for 7 time units is t least 0.98
 
