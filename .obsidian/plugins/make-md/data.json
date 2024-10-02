@@ -49,7 +49,8 @@
     "//6. Computation Tree Logic/6. Computation Tree Logic/6.2 Computation Tree Logic",
     "//0. PRISM Dictionary",
     "//0. PRISM",
-    "//0. PRISM/0. PRISM/0.2 Property Specification"
+    "//0. PRISM/0. PRISM/0.2 Property Specification",
+    "//sources"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
