@@ -11,4 +11,26 @@ The basic different types of path property that can be used inside the **P opera
 - **W**: "weak until"
 - **R**: "release"
 
-In the following sections, we describe each of these *temporal operators*. We then discuss the (optional) use of time bounds with 
+In the following sections, we describe each of these *temporal operators*. We then discuss the (optional) use of time bounds with these operators. Finally, we also discuss LTL-style path properties.
+
+
+---
+## "Next" path properties
+
+The property **X** `prop`is true for a path if `prop`is true in its second state. An example of this type of property, used inside a **P operator**, is:
+
+
+```c
+P<0.01 [ X y = 1]
+```
+
+which is true in a state if "the probability of the expression y = 1 being true in the next state is less than 0.01"
+
+## "Until" path properties
+
+The property `prop1`**U** `prop2`is true for a path if `prop2`is true in some state of the path and `prop1`is true in all preceding states. A simple example of this would be:
+
+
+```c
+P>0.5 [z<2 U z=2]
+```
