@@ -14,4 +14,16 @@ R query [ rewardprop ]
 
 where `query` is `=?`, `min=?` or `max=?`. In the latter case, filters can be used, as for the **P** and **S** operators.
 
+---
+Informally, **R**` bound [ rewardprop ]` is true in a state of a model if "the expected reward associated with `rewardprop` of the model when starting from that state'' meets the bound `bound` and **R** `query [ rewardprop ]` returns the actual expected reward value.
 
+There are various different types of reward properties:
+
+- **"reachability reward":** **F** `prop`
+- **"co-safe LTL reward"**: e.g. **F** (`prop1 &` **F** `prop2`)
+- **"cumulative reward"**: **C**<=`t`
+- **"total reward"**: **C**
+- **"instantaneous reward"**: **I** =t
+- **"steady-state reward"**: **S**
+
+Below, we consider each of these cases in turn. The descriptions here are kept relatively informal. Precise definitions for most of th
