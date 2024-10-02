@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
+                "file": "0. PRISM/0.2 Property Specification/The P Operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
+                "file": "0. PRISM/0.2 Property Specification/The P Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The S Operator.md",
+                "file": "0. PRISM/0.2 Property Specification/The P Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/The S Operator.md"
+                "file": "0. PRISM/0.2 Property Specification/The P Operator.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "9d613839c5e3720a",
   "lastOpenFiles": [
-    "2024-10-02.md",
     "0. PRISM/0.2 Property Specification/The S Operator.md",
+    "2024-10-02.md",
     "0. PRISM/0.2 Property Specification/LTL-Style path properties.md",
     "0. PRISM/0.2 Property Specification/Path Properties.md",
     "sources/sources.md",
