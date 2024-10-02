@@ -124,4 +124,4 @@ or, equivalently:
 P=? [F=10 y=6]
 ```
 
-both of which give the probability of 
+both of which give the probability of `y`being 6 at time instant 10.
