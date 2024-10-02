@@ -112,4 +112,16 @@ which refer to the probability of `y`becoming equal to 4 after 10 or more time u
 
 ## Transient probabilities
 
-We can also use the boun
+We can also use the bounded **F operator** to refer to a single time instant, e.g.:
+
+```c
+P=? [F[10,10] y = 6]
+```
+
+or, equivalently:
+
+```c
+P=? [F=10 y=6]
+```
+
+both of which give the probability of 
