@@ -23,8 +23,12 @@
             "id": "f39a5f507ff16f10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2.10 Non-probabilistics Properties.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -125,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2.10 Non-probabilistics Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2.10 Non-probabilistics Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2.10 Non-probabilistics Properties.md"
+              }
             }
           },
           {
@@ -195,9 +203,12 @@
   },
   "active": "f39a5f507ff16f10",
   "lastOpenFiles": [
+    "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
+    "0. PRISM/0.2 Property Specification/0.2.10 Non-probabilistics Properties.md",
+    "6. Computation Tree Logic/6.1 Introduction.md",
+    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.2 Co-Safe LTL Reward.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
-    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
     "5.1 Linear Temporal Logic.md",
     "README.md",
@@ -218,9 +229,6 @@
     "0. PRISM/0.1 PRISM Language/0.1.12 Costs & Rewards.md",
     "0. PRISM/0.1 PRISM Language/0.1.11 Formulas and Labels.md",
     "0. PRISM/0.1 PRISM Language/0.1.10 Global Variables.md",
-    "0. PRISM/0.1 PRISM Language/0.1.9 Multiple Initial States.md",
-    "0. PRISM/0.1 PRISM Language/0.1.8 Constants.md",
-    "0. PRISM/0.1 PRISM Language/0.1.7 Expressions.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
     "0. PRISM/0.2 Property Specification",
     "0. PRISM/0.1 PRISM Language",
