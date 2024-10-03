@@ -23,10 +23,8 @@
             "id": "f39a5f507ff16f10",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "0. PRISM/0.1 PRISM Language"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -45,14 +43,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,18 +193,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c56aed7cd0c28d",
+  "active": "f39a5f507ff16f10",
   "lastOpenFiles": [
-    "Vault.md",
+    "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.2 Co-Safe LTL Reward.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
     "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
+    "5.1 Linear Temporal Logic.md",
+    "README.md",
+    "Vault.md",
     "0. PRISM/0.2 Property Specification/0.2.9 Which reward structure.md",
     "0. PRISM/0.2 Property Specification/0.2.7 Reward-based properties.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.6 Steady-state Reward.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.5 Instantaneous Reward.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.4 Total Reward.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.3 Cumulative Reward.md",
-    "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.2 Co-Safe LTL Reward.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.1 Reachability Reward.md",
     "0. PRISM/0.2 Property Specification/0.2.6 The S Operator.md",
     "0. PRISM/0.2 Property Specification/0.2.5 LTL-Style path properties.md",
@@ -224,9 +221,6 @@
     "0. PRISM/0.1 PRISM Language/0.1.9 Multiple Initial States.md",
     "0. PRISM/0.1 PRISM Language/0.1.8 Constants.md",
     "0. PRISM/0.1 PRISM Language/0.1.7 Expressions.md",
-    "0. PRISM/0.1 PRISM Language/0.1.6 Local Nondeterminism.md",
-    "0. PRISM/0.1 PRISM Language/0.1.5 Parallel Composition.md",
-    "0. PRISM/0.1 PRISM Language/0.1.4 Commands.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
     "0. PRISM/0.2 Property Specification",
     "0. PRISM/0.1 PRISM Language",
