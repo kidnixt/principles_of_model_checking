@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.13 Properties Files.md",
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.13 Properties Files.md",
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.13 Properties Files.md",
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.13 Properties Files.md"
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md"
               }
             }
           },
@@ -203,9 +203,12 @@
   },
   "active": "f39a5f507ff16f10",
   "lastOpenFiles": [
-    "0. PRISM/0.1 PRISM Language/0.1.11 Formulas and Labels.md",
-    "0. PRISM/0.2 Property Specification/0.2.13 Properties Files.md",
     "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
+    "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
+    "0. PRISM/0.3 Running PRISM/0.3 Running PRISM.md",
+    "0. PRISM/0.2 Property Specification/0.2.13 Properties Files.md",
+    "0. PRISM/0.3 Running PRISM",
+    "0. PRISM/0.1 PRISM Language/0.1.11 Formulas and Labels.md",
     "0. PRISM/0.2 Property Specification/0.2.12 Filters.md",
     "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
     "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
@@ -227,8 +230,6 @@
     "0. PRISM/0.2 Property Specification/0.2.6 The S Operator.md",
     "0. PRISM/0.2 Property Specification/0.2.5 LTL-Style path properties.md",
     "0. PRISM/0.2 Property Specification/0.2.4 Path Properties.md",
-    "0. PRISM/0.2 Property Specification/0.2.3 The P Operator.md",
-    "0. PRISM/0.2 Property Specification/0.2.2 Identifying a Set of States.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
     "0. PRISM/0.2 Property Specification",
     "0. PRISM/0.1 PRISM Language",
@@ -247,7 +248,6 @@
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic",
     "sources/Pasted image 20240904174257.png",
     "sources",
-    "Tags",
-    "5. Linear Temporal Logic"
+    "Tags"
   ]
 }
