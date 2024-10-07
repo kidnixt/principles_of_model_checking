@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
+                "file": "0. PRISM/0.2 Property Specification/0.2.12 Filters.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
+                "file": "0. PRISM/0.2 Property Specification/0.2.12 Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
+                "file": "0. PRISM/0.2 Property Specification/0.2.12 Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md"
+                "file": "0. PRISM/0.2 Property Specification/0.2.12 Filters.md"
               }
             }
           },
@@ -201,9 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16b6d974af4edb5c",
+  "active": "f39a5f507ff16f10",
   "lastOpenFiles": [
     "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
+    "0. PRISM/0.2 Property Specification/0.2.12 Filters.md",
     "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
@@ -228,7 +229,6 @@
     "0. PRISM/0.2 Property Specification/0.2.2 Identifying a Set of States.md",
     "0. PRISM/0.2 Property Specification/0.2.1 Introduction.md",
     "0. PRISM/0.1 PRISM Language/0.1.12 Costs & Rewards.md",
-    "0. PRISM/0.1 PRISM Language/0.1.11 Formulas and Labels.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
     "0. PRISM/0.2 Property Specification",
     "0. PRISM/0.1 PRISM Language",
