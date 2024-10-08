@@ -53,7 +53,8 @@
     "//0. PRISM/0. PRISM/0.2 Property Specification/0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
     "//6. Computation Tree Logic",
     "//0. PRISM",
-    "//0. PRISM/0. PRISM/0.1 PRISM Language"
+    "//0. PRISM/0. PRISM/0.1 PRISM Language",
+    "//0. PRISM/0. PRISM/0.2 Property Specification"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
