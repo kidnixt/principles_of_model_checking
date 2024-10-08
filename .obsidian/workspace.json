@@ -8,24 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f39a5f507ff16f10",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "9d613839c5e3720a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0. PRISM/0.1 PRISM Language/0.1.12 Costs & Rewards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f39a5f507ff16f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.2.1 Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,9 +50,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "503b6311b7956f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9c0fe095ec34fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. PRISM/0.2 Property Specification/0.2.10 Non-probabilistics Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.2.1 Syntax.md",
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.2.1 Syntax.md",
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.2.1 Syntax.md"
+                "file": "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md"
               }
             }
           },
@@ -201,20 +223,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a89810dd9e26a9fd",
+  "active": "503b6311b7956f65",
   "lastOpenFiles": [
-    "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax .md",
-    "6.2.1 Syntax.md",
-    "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
-    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
+    "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax of CTL.md",
     "0. PRISM/0.2 Property Specification/0.2.10 Non-probabilistics Properties.md",
+    "6.2.1 Syntax.md",
+    "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
+    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
+    "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
     "0. PRISM/0.2 Property Specification/0.2.7 Reward-based properties.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.5 Instantaneous Reward.md",
     "0. PRISM/0.3 Running PRISM/0.3.4 Statistical Model Checking.md",
     "0. PRISM/0.2 Property Specification/0.2.12 Filters.md",
     "0. PRISM/0.3 Running PRISM/0.3.4 Model Checking.md",
-    "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
     "0. PRISM/0.3 Running PRISM/0.3.3 Exporting the Model.md",
     "0. PRISM/0.3 Running PRISM/0.3.2 Debugging Models with the Simulator.md",
     "sources/Pasted image 20241007174504.png",
