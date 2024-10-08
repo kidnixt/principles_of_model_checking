@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.3 Running PRISM/0.3.4 Model Checking.md",
+                "file": "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.3 Running PRISM/0.3.4 Model Checking.md",
+                "file": "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.3 Running PRISM/0.3.4 Model Checking.md"
+                "file": "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md"
               }
             }
           },
@@ -201,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f39a5f507ff16f10",
+  "active": "762a35c9456158ef",
   "lastOpenFiles": [
-    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.3 Running PRISM/0.3.4 Model Checking.md",
+    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
     "0. PRISM/0.3 Running PRISM/0.3.3 Exporting the Model.md",
     "0. PRISM/0.3 Running PRISM/0.3.2 Debugging Models with the Simulator.md",
