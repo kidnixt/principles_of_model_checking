@@ -46,13 +46,14 @@
   "expandedSpaces": [
     "/",
     "//0. PRISM Dictionary",
-    "//0. PRISM",
     "//5. Linear Temporal Logic/5. Linear Temporal Logic/5.1 Linear Temporal Logic",
     "//0. PRISM/0. PRISM/0.2 Property Specification/0. PRISM/0.2 Property Specification/0.2.1 Reward Properties ",
     "//Tags",
     "//0. PRISM/0. PRISM/0.3 Running PRISM",
     "//0. PRISM/0. PRISM/0.2 Property Specification/0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
-    "//6. Computation Tree Logic"
+    "//6. Computation Tree Logic",
+    "//0. PRISM",
+    "//0. PRISM/0. PRISM/0.1 PRISM Language"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

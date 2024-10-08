@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. PRISM/0.3 Running PRISM/0.3.7 Parametric Model Checking.md",
+                "file": "0. PRISM/0.1 PRISM Language/0.1.3 Modules & Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. PRISM/0.3 Running PRISM/0.3.7 Parametric Model Checking.md",
+                "file": "0. PRISM/0.1 PRISM Language/0.1.3 Modules & Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. PRISM/0.3 Running PRISM/0.3.7 Parametric Model Checking.md",
+                "file": "0. PRISM/0.1 PRISM Language/0.1.3 Modules & Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. PRISM/0.3 Running PRISM/0.3.7 Parametric Model Checking.md"
+                "file": "0. PRISM/0.1 PRISM Language/0.1.3 Modules & Variables.md"
               }
             }
           },
@@ -179,8 +179,13 @@
   },
   "active": "4aed0d303c899566",
   "lastOpenFiles": [
-    "0. PRISM/0.3 Running PRISM/0.3.6 Experiments.md",
+    "0. PRISM/0.1 PRISM Language/0.1.4 Commands.md",
+    "0. PRISM/0.1 PRISM Language/0.1.3 Modules & Variables.md",
+    "0. PRISM/0.1 PRISM Language/0.1.2 Model Type.md",
+    "0. PRISM/0.1 PRISM Language/0.1.1 Example 1.md",
+    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.3 Running PRISM/0.3.7 Parametric Model Checking.md",
+    "0. PRISM/0.3 Running PRISM/0.3.6 Experiments.md",
     "0. PRISM/0.3 Running PRISM/0.3.4 Statistical Model Checking.md",
     "0. PRISM/0.3 Running PRISM/0.3.5 Methods for Statistical Model Checking/0.3.5.4 SPRT (Sequential Probability Ratio Test) Method.md",
     "0. PRISM/0.3 Running PRISM/0.3.5 Methods for Statistical Model Checking/0.3.5.3 APMC (Approximate Probabilistic Model Checking) Method.md",
@@ -194,7 +199,6 @@
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax of CTL.md",
     "0. PRISM/0.1 PRISM Language/0.1.12 Costs & Rewards.md",
     "0. PRISM/0.2 Property Specification/0.2.11 Syntax & Semantics.md",
-    "0. PRISM/0.1 PRISM Language/0.1 PRISM Language.md",
     "0. PRISM/0.3 Running PRISM/0.3.3 Exporting the Model.md",
     "0. PRISM/0.3 Running PRISM/0.3.2 Debugging Models with the Simulator.md",
     "0. PRISM/0.3 Running PRISM/0.3.1 Loading & Building a Model.md",
@@ -202,11 +206,7 @@
     "0. PRISM/0.2 Property Specification/0.2 Property Specification.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
     "0. PRISM/0.2 Property Specification/0.2.7 Reward-based properties.md",
-    "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.5 Instantaneous Reward.md",
-    "0. PRISM/0.2 Property Specification/0.2.12 Filters.md",
-    "0. PRISM/0.3 Running PRISM/0.3.4 Model Checking.md",
     "sources/Pasted image 20241007174504.png",
-    "0. PRISM/0.2 Property Specification/0.2.13 Properties Files.md",
     "0. PRISM/0.3 Running PRISM",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties ",
     "0. PRISM/0.2 Property Specification",
