@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Case Studies/1.1 Length after Branching.md",
+                "file": "1. Case Studies/1.0 Cosas que probé.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Case Studies/1.1 Length after Branching.md",
+                "file": "1. Case Studies/1.0 Cosas que probé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Case Studies/1.1 Length after Branching.md",
+                "file": "1. Case Studies/1.0 Cosas que probé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Case Studies/1.1 Length after Branching.md"
+                "file": "1. Case Studies/1.0 Cosas que probé.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   "active": "4aed0d303c899566",
   "lastOpenFiles": [
     "1. Case Studies/1.1 Length after Branching.md",
+    "1. Case Studies/1.0 Cosas que probé.md",
     "1. Case Studies/1. Case Studies.md",
     "1. Case Studies",
     "0. PRISM/0. PRISM.md",
@@ -205,7 +206,6 @@
     "0. PRISM/0.1 PRISM Language/0.1.9 Multiple Initial States.md",
     "0. PRISM/0.1 PRISM Language/0.1.8 Constants.md",
     "0. PRISM/0.1 PRISM Language/0.1.7 Expressions.md",
-    "0. PRISM/0.1 PRISM Language/0.1.6 Local Nondeterminism.md",
     "0. PRISM/0.3 Running PRISM/0.3.5 Methods for Statistical Model Checking",
     "sources/Pasted image 20241007174504.png",
     "0. PRISM/0.3 Running PRISM",
