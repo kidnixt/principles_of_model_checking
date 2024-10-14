@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Case Studies/1.0 Cosas que probé.md",
+                "file": "1. Case Studies/1.1 Length after Branching.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Case Studies/1.0 Cosas que probé.md",
+                "file": "1. Case Studies/1.1 Length after Branching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Case Studies/1.0 Cosas que probé.md",
+                "file": "1. Case Studies/1.1 Length after Branching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Case Studies/1.0 Cosas que probé.md"
+                "file": "1. Case Studies/1.1 Length after Branching.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "4aed0d303c899566",
   "lastOpenFiles": [
-    "1. Case Studies/1.1 Length after Branching.md",
     "1. Case Studies/1.0 Cosas que probé.md",
+    "1. Case Studies/1.1 Length after Branching.md",
     "1. Case Studies/1. Case Studies.md",
     "1. Case Studies",
     "0. PRISM/0. PRISM.md",
