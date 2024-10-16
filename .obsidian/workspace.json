@@ -14,7 +14,9 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -26,7 +28,9 @@
                 "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "5.1.1 Syntax"
             }
           }
         ],
@@ -50,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,15 +81,21 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
             "id": "16b6d974af4edb5c",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -113,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5.1.1 Syntax"
             }
           },
           {
@@ -125,7 +141,9 @@
                 "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5.1.1 Syntax"
             }
           },
           {
@@ -136,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,7 +166,9 @@
               "type": "outline",
               "state": {
                 "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5.1.1 Syntax"
             }
           },
           {
@@ -154,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
