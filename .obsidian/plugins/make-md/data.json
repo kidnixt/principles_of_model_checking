@@ -52,7 +52,8 @@
     "//0. PRISM/0. PRISM/0.3 Running PRISM",
     "//6. Computation Tree Logic",
     "//1. Case Studies",
-    "//5. Linear Temporal Logic"
+    "//5. Linear Temporal Logic",
+    "//6. Computation Tree Logic/6. Computation Tree Logic/6.2 Computation Tree Logic"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

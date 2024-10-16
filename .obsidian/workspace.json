@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md"
+                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md"
               }
             }
           },
@@ -179,11 +179,13 @@
   },
   "active": "4aed0d303c899566",
   "lastOpenFiles": [
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
     "1. Case Studies/1.1 Length after Branching.md",
-    "1. Case Studies/1.0 Cosas que probé.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
+    "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2 Computation Tree Logic.md",
     "6. Computation Tree Logic/6.1 Introduction.md",
+    "1. Case Studies/1.0 Cosas que probé.md",
     "1. Case Studies/1. Case Studies.md",
     "1. Case Studies",
     "0. PRISM/0. PRISM.md",
@@ -204,8 +206,6 @@
     "0. PRISM/0.2 Property Specification/0.2.2 Identifying a Set of States.md",
     "0. PRISM/0.2 Property Specification/0.2.1 Introduction.md",
     "0. PRISM/0.1 PRISM Language/0.1.12 Costs & Rewards.md",
-    "0. PRISM/0.1 PRISM Language/0.1.11 Formulas and Labels.md",
-    "0. PRISM/0.1 PRISM Language/0.1.10 Global Variables.md",
     "0. PRISM/0.3 Running PRISM/0.3.5 Methods for Statistical Model Checking",
     "sources/Pasted image 20241007174504.png",
     "0. PRISM/0.3 Running PRISM",
