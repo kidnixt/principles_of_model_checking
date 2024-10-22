@@ -23,14 +23,12 @@
             "id": "4aed0d303c899566",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
-                "mode": "source",
-                "source": false
+                "path": "1. Case Studies"
               },
               "icon": "lucide-file",
-              "title": "5.1.1 Syntax"
+              "title": "1. Case Studies"
             }
           }
         ],
@@ -87,15 +85,13 @@
             }
           },
           {
-            "id": "cbcf6480adae6b3c",
+            "id": "7033ab4d60bc0a43",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -201,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aed0d303c899566",
+  "active": "e95955fb0d7e188a",
   "lastOpenFiles": [
-    "1. Case Studies/1.1 Length after Branching.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
+    "1. Case Studies/1.1 Length after Branching.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
     "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2 Computation Tree Logic.md",
