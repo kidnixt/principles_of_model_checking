@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. Case Studies/1.2 The article's subtle impact.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -90,10 +90,12 @@
             "id": "7033ab4d60bc0a43",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
