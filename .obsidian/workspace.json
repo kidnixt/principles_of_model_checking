@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Papers/2.1 Towards Efficient Active Learning of PDFA.md",
+                "file": "3. Ideas/3.1 Idea de Sergiovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Towards Efficient Active Learning of PDFA"
+              "title": "3.1 Idea de Sergiovich"
             }
           }
         ],
@@ -87,7 +87,7 @@
             }
           },
           {
-            "id": "6fa99c8a6fdca158",
+            "id": "03421356c3ca174c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,9 +201,12 @@
   },
   "active": "4aed0d303c899566",
   "lastOpenFiles": [
+    "3. Ideas/3.1 Idea de Sergiovich.md",
+    "2. Papers/2.1 Towards Efficient Active Learning of PDFA.md",
+    "3. Ideas/3. Ideas.md",
+    "3. Ideas",
     "sources/Pasted image 20241024174559.png",
     "1. Case Studies/1.2 The article's subtle impact.md",
-    "2. Papers/2.1 Towards Efficient Active Learning of PDFA.md",
     "2. Papers/2. Papers.md",
     "2. Papers",
     "Untitled.md",
@@ -228,7 +231,6 @@
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.2 Co-Safe LTL Reward.md",
     "0. PRISM/0.2 Property Specification/0.2.7 Reward-based properties.md",
     "0. PRISM/0.2 Property Specification/0.2.6 The S Operator.md",
-    "0. PRISM/0.2 Property Specification/0.2.4 Path Properties.md",
     "0. PRISM/0.3 Running PRISM/0.3.5 Methods for Statistical Model Checking",
     "sources/Pasted image 20241007174504.png",
     "0. PRISM/0.3 Running PRISM",
@@ -244,8 +246,6 @@
     "sources/Pasted image 20240905163751.png",
     "sources/Pasted image 20240910193409.png",
     "sources/Pasted image 20240912174619.png",
-    "6. Computation Tree Logic/6.2 Computation Tree Logic",
-    "6. Computation Tree Logic",
-    "sources/Pasted image 20240910193337.png"
+    "6. Computation Tree Logic/6.2 Computation Tree Logic"
   ]
 }
