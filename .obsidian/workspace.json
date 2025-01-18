@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
+                "file": "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.2 Semantics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1.1 Syntax"
+              "title": "6.2.2 Semantics"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "4aed0d303c899566",
   "lastOpenFiles": [
-    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
+    "6. Computation Tree Logic/6.2 Computation Tree Logic/6.2.1 Syntax of CTL.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.1 Syntax.md",
+    "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1.2 Semantics.md",
     "5. Linear Temporal Logic/5.1 Linear Temporal Logic/5.1 Linear Temporal Logic (LTL).md",
     "2. Papers/2.1 Towards Efficient Active Learning of PDFA.md",
     "1. Case Studies/1.0 Cosas que probé.md",
@@ -230,7 +231,6 @@
     "0. PRISM/0.2 Property Specification/0.2.9 Which reward structure.md",
     "0. PRISM/0.2 Property Specification/0.2.8 Reward Properties /0.2.8.2 Co-Safe LTL Reward.md",
     "0. PRISM/0.2 Property Specification/0.2.7 Reward-based properties.md",
-    "0. PRISM/0.2 Property Specification/0.2.6 The S Operator.md",
     "0. PRISM/0.3 Running PRISM/0.3.5 Methods for Statistical Model Checking",
     "sources/Pasted image 20241007174504.png",
     "0. PRISM/0.3 Running PRISM",
