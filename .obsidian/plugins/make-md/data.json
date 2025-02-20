@@ -53,7 +53,10 @@
     "//6. Computation Tree Logic",
     "//5. Linear Temporal Logic",
     "//6. Computation Tree Logic/6. Computation Tree Logic/6.2 Computation Tree Logic",
-    "//1. Case Studies"
+    "//1. Case Studies",
+    "//0. PRISM",
+    "//0. PRISM/0. PRISM/0.2 Property Specification",
+    "//0. PRISM/0. PRISM/0.1 PRISM Language"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
